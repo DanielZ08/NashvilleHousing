@@ -1,4 +1,4 @@
-# Nashville Housing Data
+# Nashville Housing Data Cleaning in SQL
 This Repository contains files that have been used for my portfolio projects. Feel free to check them out, and please reach out if you have any questions and/or inquiries.
 
 **Project Overview**
